@@ -1,0 +1,93 @@
+{
+  "id": "5044314",
+  "name": "MDN",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "15378572",
+      "name": "mastodon",
+      "font_class": "mastodon",
+      "unicode": "ec07",
+      "unicode_decimal": 60423
+    },
+    {
+      "icon_id": "1159892",
+      "name": "wifi",
+      "font_class": "wifi",
+      "unicode": "e61c",
+      "unicode_decimal": 58908
+    },
+    {
+      "icon_id": "4061105",
+      "name": "x",
+      "font_class": "x",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "4937000",
+      "name": "github-fill",
+      "font_class": "github-fill",
+      "unicode": "e885",
+      "unicode_decimal": 59525
+    },
+    {
+      "icon_id": "8531058",
+      "name": "蝴蝶",
+      "font_class": "hudie",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "27294206",
+      "name": "跳转-转曲",
+      "font_class": "open",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "1166722",
+      "name": "放大镜",
+      "font_class": "fangdajing",
+      "unicode": "e63d",
+      "unicode_decimal": 58941
+    },
+    {
+      "icon_id": "43195178",
+      "name": "进入",
+      "font_class": "jinru",
+      "unicode": "e630",
+      "unicode_decimal": 58928
+    },
+    {
+      "icon_id": "2076220",
+      "name": " 下拉箭头小",
+      "font_class": "xialajiantouxiao",
+      "unicode": "e87e",
+      "unicode_decimal": 59518
+    },
+    {
+      "icon_id": "2076268",
+      "name": "收起箭头小",
+      "font_class": "shouqijiantouxiao",
+      "unicode": "e892",
+      "unicode_decimal": 59538
+    },
+    {
+      "icon_id": "15644304",
+      "name": "扳手",
+      "font_class": "banshou",
+      "unicode": "e6b9",
+      "unicode_decimal": 59065
+    },
+    {
+      "icon_id": "16588044",
+      "name": "博士帽",
+      "font_class": "boshimao",
+      "unicode": "e6fe",
+      "unicode_decimal": 59134
+    }
+  ]
+}
